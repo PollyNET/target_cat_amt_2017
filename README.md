@@ -1,2 +1,3 @@
 # target_cat_amt_2017
-stand alone target cat versiona s published in amt
+stand alone target cat version as published in amt
+main funticon is the target cat only.m
